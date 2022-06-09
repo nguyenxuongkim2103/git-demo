@@ -2,8 +2,9 @@
 
 ## Instructions
 
-1. Clone this repo to local machine
-2. Make change
-3. Pull the changes from the original repo
-4. Push it to your remote repo
-5. Create a Pull Request to the original repo
+1. Fork this repo to github
+2. Clone it to your local machine
+3. Make change
+4. Pull the changes from the original repo
+5. Push it to your remote repo
+6. Create a Pull Request to the original repo
