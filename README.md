@@ -7,4 +7,4 @@
 3. Create a new `development` branch in your local repo
 5. Make changes
 7. Push to `development` branch of your forked repo
-8. Create a Pull Request to the original repo
+8. Create a Pull Request to the `development` branch of the original repo
