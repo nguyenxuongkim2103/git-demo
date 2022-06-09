@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Fork this repo to github
+1. Fork this repo to your github
 2. Clone it to your local machine
 3. Make change
 4. Pull the changes from the original repo
